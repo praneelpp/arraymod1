@@ -1,5 +1,5 @@
 //1.SPDX-License-Identifier: MIT
-pragma solidity 0.8.18;
+pragma solidity 0.8.9;
 contract modETHAVAX1{
     function factorsOf12(uint[] memory factors)public pure returns(string memory) {
       for(uint i=0;i<factors.length;i++){
